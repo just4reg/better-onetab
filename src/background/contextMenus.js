@@ -9,15 +9,15 @@ const menus = {
   STORE_SELECTED_TABS: tabs.storeSelectedTabs,
   STORE: {
     STORE_ALL_TABS_IN_CURRENT_WINDOW: tabs.storeAllTabs,
-    STORE_ALL_TABS_IN_ALL_WINDOWS: tabs.storeAllTabInAllWindows,
-    STORE_LEFT_TABS: tabs.storeLeftTabs,
+//    STORE_ALL_TABS_IN_ALL_WINDOWS: tabs.storeAllTabInAllWindows,
+//    STORE_LEFT_TABS: tabs.storeLeftTabs,
     STORE_RIGHT_TABS: tabs.storeRightTabs,
     STORE_TWOSIDE_TABS: tabs.storeTwoSideTabs,
   },
   STORE_TO_TITLED_LIST: {
     STORE_SELECTED_TABS: tabs.storeSelectedTabs,
-    STORE_ALL_TABS_IN_CURRENT_WINDOW: tabs.storeAllTabs,
-    STORE_LEFT_TABS: tabs.storeLeftTabs,
+//    STORE_ALL_TABS_IN_CURRENT_WINDOW: tabs.storeAllTabs,
+//    STORE_LEFT_TABS: tabs.storeLeftTabs,
     STORE_RIGHT_TABS: tabs.storeRightTabs,
     STORE_TWOSIDE_TABS: tabs.storeTwoSideTabs,
   }
